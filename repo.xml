@@ -1,14 +1,49 @@
 <repo>
+	<footerLinksComment>
+		The links indicated below will appear at the bottom of every depiction.
+	</footerLinksComment>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
+			<name>@crehic on Twitter</name>
 			<url>https://twitter.com/crehic</url>
 			<iconclass>glyphicon glyphicon-user</iconclass>
 		</link>
 		<link>
-			<name>Waht???</name>
-			<url>https://</url>
-			<iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+			<name>See my open-sourced projects on Github!</name>
+			<url>https://github.com/doio</url>
+			<iconclass>glyphicon glyphicon-console</iconclass>
+		</link>
+		<link>
+			<name>Contribute via Paypal</name>
+			<url><![CDATA[
+			https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=asdsadKGRNU
+			]]>
+			</url>
+			<iconclass>glyphicon glyphicon-heart</iconclass>
 		</link>
 	</footerlinks>
+	<packagesComment>
+		The bundleIDs listed below are used to load the names and description of tweaks on the repo main page.
+	</packagesComment>
+	<packages>
+    <package>com.supermamon.adrenaline</package>
+    <package>com.supermamon.nctabcolor</package>
+    <package>com.supermamon.wellrounded</package>
+    <package>com.supermamon.nctabcolor</package>
+    <package>com.supermamon.cleanamrc</package>
+    <package>com.supermamon.ss9</package>
+    <package>com.supermamon.codetidy</package>
+		<package>com.supermamon.ccoldbounce</package>
+    <package>com.supermamon.customnono</package>
+    <package>com.supermamon.photopackrat</package>
+    <package>com.supermamon.fbenableprofilevideo</package>
+    <package>com.supermamon.nomessagesphotobutton</package>
+    <package>com.supermamon.expungephotos</package>
+		<package>com.supermamon.cylindernitro</package>
+		<package>com.supermamon.lithiumnitro</package>
+		<package>com.supermamon.speedometer4lithium</package>
+		<package>com.supermamon.lithiumdots</package>
+		<package>com.supermamon.lithiumtallbars</package>
+		<package>com.supermamon.lithiumnpsimple</package>
+	</packages>
 </repo>
